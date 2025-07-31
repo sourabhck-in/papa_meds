@@ -1,0 +1,11 @@
+submission_id,doctor_id,doctor_name,date,start_time,end_time,scribe_name,patient_number,submitted_by,submitted_time
+SUB_20250727_124710_C2511D,DOC001,City Medical Center | Sarah | Wilson,2025-07-27,09:00,12:35,Sanket,1055,jsmith,2025-07-27 12:47:10
+SUB_20250727_124859_B35F67,DOC001,City Medical Center | Sarah | Wilson,2025-07-27,12:36,15:56,Sanket,1044,jsmith,2025-07-27 12:48:59
+SUB_20250728_091922_56D4FB,DOC001,City Medical Center | Sarah | Wilson,2025-07-28,09:00,17:00,asd,1,jsmith,2025-07-28 09:19:22
+SUB_20250729_212207_B55FC9,DOC001,City Medical Center | Sarah | Wilson,2025-07-29,09:00,13:25,Sanket,55,jsmith,2025-07-29 21:22:07
+SUB_20250729_212207_EB64FD,DOC001,City Medical Center | Sarah | Wilson,2025-07-29,13:26,16:26,Sanket,55,jsmith,2025-07-29 21:22:07
+SUB_20250730_103915_AC38DB,DOC001,City Medical Center | Sarah | Wilson,2025-07-30,09:30,12:30,Project Norway,1321,jsmith,2025-07-30 10:39:15
+SUB_20250730_204126_17BE10,DOC001,City Medical Center | Sarah | Wilson,2025-07-01,12:01,17:30,Sanket,1150,jsmith,2025-07-30 20:41:26
+SUB_20250730_204211_F27C01,DOC001,City Medical Center | Sarah | Wilson,2025-07-02,09:15,14:30,Morning,1125,jsmith,2025-07-30 20:42:11
+SUB_20250730_210309_31F2D0,DOC001,City Medical Center | Sarah | Wilson,2025-07-07,09:15,13:45,Morning,1452,jsmith,2025-07-30 21:03:09
+SUB_20250730_210450_18E464,DOC001,City Medical Center | Sarah | Wilson,2025-07-08,12:05,13:45,Afternoon,1256,jsmith,2025-07-30 21:04:50

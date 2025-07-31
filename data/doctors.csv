@@ -1,0 +1,4 @@
+doctor_id,clinic,fn,ln,tl_name,full_name
+DOC001,City Medical Center,Sarah,Wilson,John Smith,City Medical Center | Sarah | Wilson
+DOC002,City Medical Center,Michael,Johnson,John Smith,City Medical Center | Michael | Johnson
+DOC003,City Medical Center,Lisa,Brown,John Smith,City Medical Center | Lisa | Brown
