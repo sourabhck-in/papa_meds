@@ -26,7 +26,7 @@ if __name__ == "__main__":
     try:
         import streamlit.web.cli as stcli
 
-        sys.argv = ["streamlit", "run", "src/ui/main.py"]
+        sys.argv = ["streamlit", "run", "src/ui/Main.py"]
         sys.exit(stcli.main())
     except ImportError:
         print("❌ Streamlit not installed. Please run: pip install streamlit")
